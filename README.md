@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 I'm an aspiring systems administrator and IT support specialist with a passion for learning and building hands-on projects. Follow my journey as I optimize and expand my home lab! 🌟
 📬 Contact
 
-For questions or suggestions, please reach out via GitHub Issues or connect with me on LinkedIn.
+For questions or suggestions, please reach out via GitHub Issues or connect with me on [LinkedIn](linkedin.com/troy-edmonds).
