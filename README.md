@@ -16,9 +16,9 @@ home-lab-setup/ ├── docs/ # Documentation and guides ├── config/ # C
 
 ## 📖 Documentation
 Detailed documentation is available in the `docs/` folder, including:
-- [Partitioning and Mounting](docs/partitioning_and_setup.md)
-- [Virtual Machine Configurations](docs/vm_configurations.md)
-- [Backup Strategies](docs/backup_strategies.md)
+- [Partitioning and Mounting](Docs/partitioning_and_setup.md)
+- [Virtual Machine Configurations](Docs/vm_configurations.md)
+- [Backup Strategies](Docs/backup_strategies.md)
 
 ## 🚀 How to Use
  1. Clone the repository:
