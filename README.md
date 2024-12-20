@@ -22,14 +22,13 @@ Detailed documentation is available in the `docs/` folder, including:
 
 ## 🚀 How to Use
  1. Clone the repository:
-   ```bash
    git clone https://github.com/TechManTroy/home-lab-setup.git
 
  2.Explore the docs/ folder for setup instructions.
 
  3.Use the scripts in the scripts/ folder to automate tasks. 🧰
 
-## 🤝 Contributions
+🤝 Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this repository.
 🧑‍💻 About Me
