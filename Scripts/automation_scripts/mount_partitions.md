@@ -5,7 +5,7 @@ This script ensures that the necessary storage partitions are mounted at startup
 ## Create/Edit mount_partitions.sh:
 
 ```
-bash
+
 nano ~/automation/mount_partitions.sh
 ```
 ----
@@ -13,7 +13,7 @@ nano ~/automation/mount_partitions.sh
 ## Script Contents:
 
 ```
-bash
+
 #!/bin/bash
 
 # Mount partitions if not mounted
@@ -43,6 +43,6 @@ fi
 ## Make the script executable:
 
 ```
-bash
+
 chmod +x ~/automation/mount_partitions.sh
 ```
