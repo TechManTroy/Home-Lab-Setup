@@ -5,7 +5,7 @@ This script will log actions and timestamps to a file (automation_log.txt) for t
 Create/Edit log_script.sh:
 
 
-```bash
+```
 nano ~/automation/log_script.sh
 ```
 ------
@@ -14,7 +14,7 @@ nano ~/automation/log_script.sh
 
 
 ```
-bash
+
 #!/bin/bash
 
 # Define log file location
@@ -33,7 +33,7 @@ log_message "Started automation task"
 ## Make the script executable:
 
 ```
-bash
+
 chmod +x ~/automation/log_script.sh
 ```
 
