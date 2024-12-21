@@ -2,7 +2,7 @@
 
 Welcome to my **Home Lab Setup** repository! 🚀 This project documents the configurations, setups, and optimizations I’ve implemented to create an efficient, flexible, and scalable home lab environment. 
 
-## 📂 Folder Structure
+## 📂 Folder Structure (Structure Still Being Modified)
 
 ```
 home-lab-setup/ 
