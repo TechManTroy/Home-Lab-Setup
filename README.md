@@ -6,12 +6,12 @@ Welcome to my **Home Lab Setup** repository! 🚀 This project documents the con
 
 ```
 home-lab-setup/ 
-├── docs/          # Documentation and guides
-├── config/        # Configuration files for systems and VMs
-├── scripts/       # Automation and utility scripts
-├── iso-storage/   # ISO files for operating systems
-├── vm-storage/    # Virtual Machine files and disk images
-└── backup/        # Backup files and configurations
+├── Docs/          # Documentation and guides
+├── Config/        # Configuration files for systems and VMs
+├── Scripts/       # Automation and utility scripts
+├── Iso-storage/   # ISO files for operating systems
+├── Vm-storage/    # Virtual Machine files and disk images
+└── Backup/        # Backup files and configurations
 ```
 
 ## 🛠️ Features
