@@ -18,6 +18,8 @@ crontab -e
 # Run Log Hourly 
 0 * * * * /path/to/log_script.sh
 
+# Clean up temporary files every Sunday at 3 AM
+0 3 * * 0 ~/automation/cleanup_temp.sh
 
 
 
