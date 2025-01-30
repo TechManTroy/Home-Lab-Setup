@@ -19,11 +19,12 @@ KVM (for running virtual machines)
 ## Monitor: 
 32-inch Samsung Odyssey G7 C32G75T
 ## Drive Mounts:
-* /mnt/ios_storage: ISO storage for system images
-* /mnt/vm_storage: Virtual Machine storage
-* /mnt/backup: Backup storage
-* /mnt/storage: General storage
-## Laptop Configuration (HP 14-inch with Intel Celeron)
+* ~/Drives/iso_storage: ISO storage for system images
+* ~/Drives/vm_storage: Virtual Machine storage
+* ~/Drives/backup: Backup storage
+* ~/Drives/general: General storage
+* ~/Drives/media: Media storage
+# Laptop Configuration (HP 14-inch with Intel Celeron)
 ## Model: 
 HP Laptop with Intel Celeron Processor
 ## Display: 
